@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am an aspiring baseball analyst. I'm posting some Python projects I've done using Google Colab. I am self-taught and I continue to learn and develop my coding skills daily. Any feedback to improve my code is welcomed! 
 
 <!--
 **Megancodes2017/Megancodes2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
